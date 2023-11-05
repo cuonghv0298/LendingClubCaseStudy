@@ -59,12 +59,12 @@ There are two types of decisions that could be taken by the company:
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- The project references insights and inferences from live presentation given by [Akashdeep Makkar] (https://www.linkedin.com/in/akashdeep-makkar-12110880/) 
+- The project references insights and inferences from live presentation given by [Akashdeep Makkar](https://www.linkedin.com/in/akashdeep-makkar-12110880/) 
 - You can find the data at- "loan.csv" within this repo.
 - Refer Data dictionary- "Data_Dictionary.xlsx" for in depth understanding of the dataset.
 
 ## Contact
-Created by [@cuonghv098](https://cuonghv0298.github.io/) - feel free to contact me!
+Created by [Huynh Viet Cuong](https://cuonghv0298.github.io/) - feel free to contact me!
 
 
 <!-- Optional -->
